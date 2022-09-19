@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Arial';
+    background: #000;
+}
+.navbar-brand{
+    font-size: 18px;
+}
+.row{
+    margin-top: 50px;
+}
+/* h1{
+    font-size: 20px;
+    background: -webkit-linear-gradient(#FFFF00 #A020F0);
+    -webkit-background-clip: text;
+} */
+P{
+    color: #fff;
+}
+
+.bt{
+    color: rgb(187, 13, 187);
+}
+.img{
+    height: 350px;
+}
+h3{
+    color: #fff;
+}
+.ro{
+    text-align: center;
+    margin-top: 40px;
+}
