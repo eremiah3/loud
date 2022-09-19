@@ -39,3 +39,28 @@ display: flex;
 width: 150px;
 justify-content: space-between;
 }
+.menu-heading{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 80px;
+    font-family: "Lato italic";
+    font-weight: bold;
+    font-style: 60px;
+    color: whitesmoke;
+}
+.carding{
+    margin-bottom: 30px;
+}
+.card-title{
+    text-align: center;
+    font-family: "Assistant";
+    font-size: x-large;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.card-text{
+    text-align: center;
+    font-family: "Open Sans";
+    padding-top: 5px;
+}
+
