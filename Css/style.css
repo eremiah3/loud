@@ -45,7 +45,6 @@ h3{
 }
 .carding{
     margin-bottom: 30px;
-    display: flex;
 }
 .card-title{
     text-align: center;
@@ -61,9 +60,4 @@ h3{
 }
 .col{
     background-color: #000;
-    display: flex;
-   
-}
-.card-img-top{
-    width:140px;
 }
