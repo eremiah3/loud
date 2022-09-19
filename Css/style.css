@@ -11,11 +11,12 @@ body{
 .row{
     margin-top: 50px;
 }
-/* h1{
+h1{
     font-size: 20px;
-    background: -webkit-linear-gradient(#FFFF00 #A020F0);
-    -webkit-background-clip: text;
-} */
+    /* background: -webkit-linear-gradient(#FFFF00 #A020F0); */
+    color: yellow;
+    
+}
 P{
     color: #fff;
 }
