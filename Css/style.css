@@ -51,7 +51,7 @@ justify-content: space-between;
 .card-1{
     text-align: center;
     background-color: rgb(41, 40, 40);;
-    width: 120px;
+    width: 150px;
     color: #fff;
     height: 80px;
     border-top-left-radius: 10px;
@@ -80,7 +80,7 @@ justify-content: space-between;
 .card-2{
     text-align: center;
     background-color: rgb(41, 40, 40);
-    width: 120px;
+    width: 150px;
     color: #fff;
     height: 80px;
     border-top-left-radius: 10px;
