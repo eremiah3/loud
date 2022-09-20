@@ -116,6 +116,14 @@ justify-content: space-between;
     width: 100px;
     height: 200px; */
 }
+.bi-pencil{
+    font-size: 40px;
+    color: yellow;  
+}
+.bi-circle{
+    font-size: 40px;
+    color: red;  
+}
 .bt-2{
     background-color: rgb(17, 15, 15);
     width: 500px;
