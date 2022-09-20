@@ -149,6 +149,12 @@ justify-content: space-between;
     margin-left: 20px;
     /* height: ; */
 }
+.bt-img{
+    width: 340px;
+}
+.col-sm-6-h{
+    text-align: center;
+}
 /* .carding{
     margin-bottom: 30px;
 }
