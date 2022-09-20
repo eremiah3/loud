@@ -18,7 +18,10 @@ h1{
     
 }
 P{
-    color: #fff;
+    color: gray;
+}
+.bi-fire{
+    color: red;
 }
 
 .bt{
@@ -92,6 +95,51 @@ justify-content: space-between;
     text-align: center;
     margin-left: 10px;
     margin-top: 10px;
+}
+.p-tag{
+    color: grey;
+    text-align: center;
+    font-size: 12px;
+    margin-top: -70px;
+}
+.heading{
+    font-size:20px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 80px;
+    color:whitesmoke
+}
+.bi-wallet2{
+    font-size: 40px;
+    color: brown;
+    /* background-color: yellowgreen;
+    width: 100px;
+    height: 200px; */
+}
+.bt-2{
+    background-color: rgb(17, 15, 15);
+    width: 500px;
+    text-align: center;
+    border-radius: 5px;
+}
+.j-heading{
+    color: whitesmoke;
+    font-size: 15px;
+
+}
+.tro{
+    font-size: 8px;
+}
+.col-sm-7{
+    display: flex;
+}
+.bt-3{
+    background-color: rgb(17, 15, 15);
+    width: 500px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 20px;
+    /* height: ; */
 }
 /* .carding{
     margin-bottom: 30px;
