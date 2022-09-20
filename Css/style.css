@@ -45,10 +45,49 @@ justify-content: space-between;
     margin-bottom: 80px;
     font-family: "Lato italic";
     font-weight: bold;
-    font-style: 60px;
+    font-style: 30px;
     color: whitesmoke;
 }
-.carding{
+.card-1{
+    text-align: center;
+    background-color: rgb(41, 40, 40);;
+    width: 120px;
+    color: #fff;
+    height: 80px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.card-top{
+    width: 80px;
+    margin-top: -40px;
+}
+.card-to{
+    width: 50px;
+    margin-top: -30px;
+}
+.card-title{
+    font-size: 13px;
+}
+.cols-2{
+    display: flex;
+    border: #fff;
+}
+.cols-3{
+    display: flex;
+    border: #fff;
+    margin-top: 35px;
+}
+.card-2{
+    text-align: center;
+    background-color: rgb(41, 40, 40);
+    width: 120px;
+    color: #fff;
+    height: 80px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-left: 10px; 
+}
+/* .carding{
     margin-bottom: 30px;
 }
 .card-title{
@@ -63,4 +102,4 @@ justify-content: space-between;
     font-family: "Open Sans";
     padding-top: 5px;
 }
-
+ */
