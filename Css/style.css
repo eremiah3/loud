@@ -51,9 +51,9 @@ justify-content: space-between;
 .card-1{
     text-align: center;
     background-color: rgb(41, 40, 40);;
-    width: 190px;
+    width: 150px;
     color: #fff;
-    height: 80px;
+    height: 90px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
@@ -61,28 +61,29 @@ justify-content: space-between;
     width: 80px;
     margin-top: -40px;
 }
-/* .card-to{
+.card-to{
     width: 50px;
     margin-top: -30px;
-} */
+}
 .card-title{
     font-size: 13px;
 }
 .cols-2{
     display: flex;
     border: #fff;
+    /* height: 90px; */
 }
 .cols-3{
     display: flex;
     border: #fff;
-    margin-top: 35px;
+    margin-top: 50px;
 }
 .card-2{
     text-align: center;
     background-color: rgb(41, 40, 40);
-    width: 190px;
+    width: 150px;
     color: #fff;
-    height: 80px;
+    height: 90px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     margin-left: 10px; 
