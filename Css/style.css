@@ -5,15 +5,18 @@ body{
     font-family: 'Arial';
     background: #000;
 }
-.navbar-brand{
-    font-size: 18px;
+.p{
+    margin-top: 20px;
+}
+
+.navbar-nav{
+    margin-left: 360px;
 }
 .row{
     margin-top: 50px;
 }
 h1{
-    /* font-size: 20px; */
-    /* background: -webkit-linear-gradient(#FFFF00 #A020F0); */
+   
     color: yellow;
     
 }
@@ -29,6 +32,9 @@ P{
 
 .bt{
     color: rgb(187, 13, 187);
+}
+.im{
+    height: 500px;
 }
 .img{
     height: 350px;
@@ -72,13 +78,14 @@ justify-content: space-between;
     background-color: rgb(41, 40, 40);;
     width: 150px;
     color: #fff;
-    height: 90px;
+    height: 100px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
 .card-top{
-    width: 80px;
-    margin-top: -40px;
+    width: 120px;
+    margin-top: -60px;
+    /* height:90px */
 }
 .card-to{
     width: 50px;
@@ -95,6 +102,7 @@ justify-content: space-between;
   -webkit-animation-fill-mode: both;animation-fill-mode: both;
   -webkit-animation-name: col-2;
   animation-name: col-2;
+  margin-left: 40px;
 }
 @-webkit-keyframes col-2{
     0%{opacity: 1;}
@@ -113,6 +121,8 @@ justify-content: space-between;
     -webkit-animation-fill-mode: both;animation-fill-mode: both;
     -webkit-animation-name: col-3;
     animation-name: col-3;
+    margin-left: 40px;
+    margin-top: 70px;
 }
 @-webkit-keyframes col-3{
     0%{opacity: 1;}
@@ -128,7 +138,7 @@ justify-content: space-between;
     background-color: rgb(41, 40, 40);
     width: 150px;
     color: #fff;
-    height: 90px;
+    height: 100px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     margin-left: 10px; 
@@ -228,19 +238,19 @@ justify-content: space-between;
 .footer{
     display: flex;
     justify-content: space-evenly;
-    margin-left: 100px;
+    /* margin-left: 70px; */
    
 }
 .footer-heading4{
-    margin-left: 50px;
+    margin-left: 30px;
 }
 .footer-heading3{
-    margin-left: 50px;
+    margin-left: 30px;
 }.footer-heading2{
-    margin-left: 50px;
+    margin-left: 30px;
 }
 .footer-heading{
-    margin-left: 200px;
+    margin-left: 120px;
     /* font-size: 20px; */
 }
 
