@@ -211,7 +211,7 @@ justify-content: space-between;
 .link-1{
     margin-top: 30px;
 }
-.b{
+.submit{
     color: black;
     border-radius: 5px;
     background-color: yellow;
@@ -226,17 +226,23 @@ justify-content: space-between;
     border: none;
 }
 .footer{
-    /* display: flex; */
-    justify-content: space-between;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 100px;
+   
 }
-/* .footer-heading4{
-    margin-left: 200px;
+.footer-heading4{
+    margin-left: 50px;
 }
 .footer-heading3{
-    margin-left: 100px;
+    margin-left: 50px;
 }.footer-heading2{
-    margin-left: 100px;
-} */
+    margin-left: 50px;
+}
+.footer-heading{
+    margin-left: 200px;
+    /* font-size: 20px; */
+}
 
 h5{
     font-size: 20px;
